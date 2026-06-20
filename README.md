@@ -104,5 +104,7 @@ jupyter notebook "Backtest_d_une_stratégie_Momentum_sur_les_actions_du_S_P_500.
 - Comparer avec d'autres stratégies (Mean-Reversion, Moving Average Crossover)
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshuacoureau12-creator/Backtest-d-une-Strat-gie-Momentum-sur-AAPL/blob/main/Backtest%20d'une%20strat%C3%A9gie%20Momentum%20sur%20les%20actions%20du%20S%26P%20500.ipynb)
+---
 
 *Projet réalisé dans le cadre d'une transition vers la finance quantitative (risk management / model validation).*
